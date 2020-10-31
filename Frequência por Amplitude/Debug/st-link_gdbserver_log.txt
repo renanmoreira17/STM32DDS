@@ -1,0 +1,43 @@
+[0.001] initConfigParams():  Configuration flags start
+[0.001] initConfigParams():   external-init                  false
+[0.001] initConfigParams():   pend-halt-timeout              (null)
+[0.002] initConfigParams():   halt                           false
+[0.002] initConfigParams():   config-file                    ""
+[0.002] initConfigParams():   persistent                     false
+[0.002] initConfigParams():  +log-file                       "/Users/renanmoreira/Documents/UFMG/Períodos/4º Período/Programação de Sistemas Embarcados/Trabalho 2/Projetos/Debug/st-link_gdbserver_log.txt"
+[0.002] initConfigParams():  +log-level                      31
+[0.002] initConfigParams():  +port-number                    61234
+[0.002] initConfigParams():  +verbose                        true
+[0.002] initConfigParams():   refresh-delay                  15
+[0.002] initConfigParams():  +verify                         true
+[0.002] initConfigParams():  +swd                            true
+[0.002] initConfigParams():   swo-port                       61234
+[0.002] initConfigParams():   cpu-clock                      8000000
+[0.002] initConfigParams():   swo-clock-div                  128
+[0.002] initConfigParams():   initialize-reset               false
+[0.002] initConfigParams():   debuggers                      false
+[0.002] initConfigParams():  +serial-number                  "3E2D09013212364D434B4E00"
+[0.002] initConfigParams():  +apid                           0
+[0.002] initConfigParams():  +attach                         true
+[0.002] initConfigParams():   shared                         false
+[0.002] initConfigParams():   erase-all                      false
+[0.002] initConfigParams():   memory-map                     ""
+[0.002] initConfigParams():   ext-memory-loaders             false
+[0.002] initConfigParams():   extload                        ""
+[0.002] initConfigParams():  +stm32cubeprogrammer-path       "/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.4.0.202007081208/tools/bin"
+[0.002] initConfigParams():   temp-path                      ""
+[0.002] initConfigParams():   preserve-temps                 false
+[0.002] initConfigParams():   frequency                      -1
+[0.002] initConfigParams():   licenses                       false
+[0.002] initConfigParams():   ignore-rest                    false
+[0.002] initConfigParams():   version                        false
+[0.002] initConfigParams():   help                           false
+[0.002] initConfigParams():  Configuration flags end
+[0.002] init():  STMicroelectronics ST-LINK GDB server. Version 5.6.0
+Copyright (c) 2020, STMicroelectronics. All rights reserved.
+[0.017] Device_Initialise():  Target connection mode: Attach
+[0.019] Device_Initialise():  Target connection failed
+[0.019] Device_Initialise():  Target no device found
+[0.019] initServerContext():  
+Error in initializing ST-LINK device.
+Reason: [0.019] initServerContext():  No device found on target.

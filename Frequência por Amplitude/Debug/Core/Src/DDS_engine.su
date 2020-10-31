@@ -1,0 +1,5 @@
+DDS_engine.c:19:6:DDS_init	8	static
+DDS_engine.c:28:6:DDS_start	4	static
+DDS_engine.c:33:6:DDS_stop	4	static
+DDS_engine.c:42:6:DDS_set_frequency_index	16	static
+DDS_engine.c:47:6:HAL_TIM_PeriodElapsedCallback	24	static
